@@ -1,0 +1,6 @@
+{
+  "name": "Math Mentor",
+  "description": "Fun and educational math puzzle game for kids and teens with levels, rewards, and AI generated challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
